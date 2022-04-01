@@ -1,0 +1,7 @@
+D:\c# workspace\multithreading-in-csharp-demo-master\2 SettingThreadProperties\bin\Debug\SettingThreadProperties.exe.config
+D:\c# workspace\multithreading-in-csharp-demo-master\2 SettingThreadProperties\bin\Debug\SettingThreadProperties.exe
+D:\c# workspace\multithreading-in-csharp-demo-master\2 SettingThreadProperties\bin\Debug\SettingThreadProperties.pdb
+D:\c# workspace\multithreading-in-csharp-demo-master\2 SettingThreadProperties\obj\Debug\2 SettingThreadProperties.csprojAssemblyReference.cache
+D:\c# workspace\multithreading-in-csharp-demo-master\2 SettingThreadProperties\obj\Debug\2 SettingThreadProperties.csproj.CoreCompileInputs.cache
+D:\c# workspace\multithreading-in-csharp-demo-master\2 SettingThreadProperties\obj\Debug\SettingThreadProperties.exe
+D:\c# workspace\multithreading-in-csharp-demo-master\2 SettingThreadProperties\obj\Debug\SettingThreadProperties.pdb
