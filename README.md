@@ -6,3 +6,7 @@ Before we discuss multithreading, first let's understand the following terms
 2. Thread - Thread is a light weight process. A process has at least one thread which is commonly called as main thread which actually executes the application code. A single process can have multiple threads.
 
 Please Note: All the threading related classes are present in System.Threading namespace.
+
+
+# Requirements 
+You will need Visual Studio IDE (for programming in C# .NET) to get started.
