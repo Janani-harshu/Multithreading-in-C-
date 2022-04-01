@@ -1,0 +1,6 @@
+D:\c# workspace\multithreading-in-csharp-demo-master\5 ParameterizedThreadInstanceMethod\bin\Debug\5 ParameterizedThreadInstanceMethod.exe.config
+D:\c# workspace\multithreading-in-csharp-demo-master\5 ParameterizedThreadInstanceMethod\bin\Debug\5 ParameterizedThreadInstanceMethod.exe
+D:\c# workspace\multithreading-in-csharp-demo-master\5 ParameterizedThreadInstanceMethod\bin\Debug\5 ParameterizedThreadInstanceMethod.pdb
+D:\c# workspace\multithreading-in-csharp-demo-master\5 ParameterizedThreadInstanceMethod\obj\Debug\5 ParameterizedThreadInstanceMethod.csproj.CoreCompileInputs.cache
+D:\c# workspace\multithreading-in-csharp-demo-master\5 ParameterizedThreadInstanceMethod\obj\Debug\5 ParameterizedThreadInstanceMethod.exe
+D:\c# workspace\multithreading-in-csharp-demo-master\5 ParameterizedThreadInstanceMethod\obj\Debug\5 ParameterizedThreadInstanceMethod.pdb
