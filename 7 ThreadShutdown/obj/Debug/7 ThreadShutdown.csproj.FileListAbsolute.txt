@@ -1,0 +1,6 @@
+D:\c# workspace\multithreading-in-csharp-demo-master\7 ThreadShutdown\bin\Debug\7 ThreadShutdown.exe.config
+D:\c# workspace\multithreading-in-csharp-demo-master\7 ThreadShutdown\bin\Debug\7 ThreadShutdown.exe
+D:\c# workspace\multithreading-in-csharp-demo-master\7 ThreadShutdown\bin\Debug\7 ThreadShutdown.pdb
+D:\c# workspace\multithreading-in-csharp-demo-master\7 ThreadShutdown\obj\Debug\7 ThreadShutdown.csproj.CoreCompileInputs.cache
+D:\c# workspace\multithreading-in-csharp-demo-master\7 ThreadShutdown\obj\Debug\7 ThreadShutdown.exe
+D:\c# workspace\multithreading-in-csharp-demo-master\7 ThreadShutdown\obj\Debug\7 ThreadShutdown.pdb
