@@ -1,0 +1,7 @@
+D:\c# workspace\multithreading-in-csharp-demo-master\1 StartingThreads\bin\Debug\StartingThreads.exe.config
+D:\c# workspace\multithreading-in-csharp-demo-master\1 StartingThreads\bin\Debug\StartingThreads.exe
+D:\c# workspace\multithreading-in-csharp-demo-master\1 StartingThreads\bin\Debug\StartingThreads.pdb
+D:\c# workspace\multithreading-in-csharp-demo-master\1 StartingThreads\obj\Debug\1 StartingThreads.csprojAssemblyReference.cache
+D:\c# workspace\multithreading-in-csharp-demo-master\1 StartingThreads\obj\Debug\1 StartingThreads.csproj.CoreCompileInputs.cache
+D:\c# workspace\multithreading-in-csharp-demo-master\1 StartingThreads\obj\Debug\StartingThreads.exe
+D:\c# workspace\multithreading-in-csharp-demo-master\1 StartingThreads\obj\Debug\StartingThreads.pdb
