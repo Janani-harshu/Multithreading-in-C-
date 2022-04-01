@@ -7,6 +7,7 @@ Before we discuss multithreading, first let's understand the following terms
 
 Please Note: All the threading related classes are present in System.Threading namespace.
 
+# Detailed description on C# Multithreading.pdf 
 
 # Requirements 
 You will need Visual Studio IDE (for programming in C# .NET) to get started.
