@@ -1,0 +1,7 @@
+D:\c# workspace\multithreading-in-csharp-demo-master\3 BackgroundThread\bin\Debug\3 BackgroundThread.exe.config
+D:\c# workspace\multithreading-in-csharp-demo-master\3 BackgroundThread\bin\Debug\3 BackgroundThread.exe
+D:\c# workspace\multithreading-in-csharp-demo-master\3 BackgroundThread\bin\Debug\3 BackgroundThread.pdb
+D:\c# workspace\multithreading-in-csharp-demo-master\3 BackgroundThread\obj\Debug\3 BackgroundThread.csprojAssemblyReference.cache
+D:\c# workspace\multithreading-in-csharp-demo-master\3 BackgroundThread\obj\Debug\3 BackgroundThread.csproj.CoreCompileInputs.cache
+D:\c# workspace\multithreading-in-csharp-demo-master\3 BackgroundThread\obj\Debug\3 BackgroundThread.exe
+D:\c# workspace\multithreading-in-csharp-demo-master\3 BackgroundThread\obj\Debug\3 BackgroundThread.pdb
