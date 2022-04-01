@@ -1,0 +1,6 @@
+D:\c# workspace\multithreading-in-csharp-demo-master\6 ThreadLifeTime\bin\Debug\6 ThreadLifeTime.exe.config
+D:\c# workspace\multithreading-in-csharp-demo-master\6 ThreadLifeTime\bin\Debug\6 ThreadLifeTime.exe
+D:\c# workspace\multithreading-in-csharp-demo-master\6 ThreadLifeTime\bin\Debug\6 ThreadLifeTime.pdb
+D:\c# workspace\multithreading-in-csharp-demo-master\6 ThreadLifeTime\obj\Debug\6 ThreadLifeTime.csproj.CoreCompileInputs.cache
+D:\c# workspace\multithreading-in-csharp-demo-master\6 ThreadLifeTime\obj\Debug\6 ThreadLifeTime.exe
+D:\c# workspace\multithreading-in-csharp-demo-master\6 ThreadLifeTime\obj\Debug\6 ThreadLifeTime.pdb
